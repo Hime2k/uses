@@ -1,5 +1,5 @@
-# uses
-### What I use
+# USES
+### What I Use
 #### Hardware
 - BenQ Pro Designer Monitor
 - Logitech Prodigy Keyboard
