@@ -16,26 +16,25 @@
 - Google Chrome
 
 #### Hosting
-- Digital Ocean for small projects
+- Digital Ocean For Small Projects
 - Netlify
-- Discord
 
 #### Chrome Extension
 - DuckDuckGo Privacy Essentials
 - React Development Tools
 
-#### Cli tools
+#### CLI Tools
 - npm
 - git
 
 #### Entertainment
 - Apple Music
 - Netflix
--  Amazon Prime
+- Amazon Prime
 - Youtube
 - Pinterest 
 
-### In my Backpack
+#### In my Backpack
 - Sony Earphones 
 - Moto E4 Plus 
 - Altoids 
