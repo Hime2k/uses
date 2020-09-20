@@ -34,7 +34,7 @@
 - Youtube
 - Pinterest 
 
-#### In my Backpack
+#### In My Backpack
 - Sony Earphones 
 - Moto E4 Plus 
 - Altoids 
