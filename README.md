@@ -1,10 +1,16 @@
-### What I use
+
+# USES
+
+### What I Use
+
 #### Hardware
+
 - BenQ Pro Designer Monitor
 - Logitech Prodigy Keyboard
 - Logictech Focus Mouse
 
 #### Development
+
 - Visual Studio Code
 - Shell: ZSH (Oh My ZSH)
 - Shell prompt: startship
@@ -15,26 +21,30 @@
 - Google Chrome
 
 #### Hosting
-- Digital Ocean for small projects
+
+- Digital Ocean For Small Projects
 - Netlify
-- Discord
 
 #### Chrome Extension
+
 - DuckDuckGo Privacy Essentials
 - React Development Tools
 
-#### Cli tools
+#### CLI Tools
+
 - npm
 - git
 
 #### Entertainment
+
 - Apple Music
 - Netflix
--  Amazon Prime
+- Amazon Prime
 - Youtube
 - Pinterest 
 
-### In my Backpack
+#### In My Backpack
+
 - Sony Earphones 
 - Moto E4 Plus 
 - Altoids 
